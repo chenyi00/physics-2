@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="705.231" height="444.477" viewBox="0, 0, 705.231, 444.477">
+  <g id="Layer_1">
+    <g>
+      <path d="M225.927,90.693 L225.927,354.693" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M370.344,8.644 L370.344,439.977" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M510.593,90.693 L510.593,354.693" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <text transform="matrix(1, 0, 0, 1, 185.699, 273)">
+        <tspan x="-19.344" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">C</tspan>
+        <tspan x="6" y="11" font-family="Avenir-Medium" font-size="24" fill="#656565">1</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 42.145, 222.597)">
+        <tspan x="-38.904" y="10.597" font-family="Avenir-Medium" font-size="36" fill="#656565">C</tspan>
+        <tspan x="-13.56" y="10.597" font-family="Avenir-Medium" font-size="24" fill="#656565">Total</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 340.699, 273)">
+        <tspan x="-19.344" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">C</tspan>
+        <tspan x="6" y="11" font-family="Avenir-Medium" font-size="24" fill="#656565">2</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 478.699, 273)">
+        <tspan x="-19.344" y="11" font-family="Avenir-Medium" font-size="36" fill="#656565">C</tspan>
+        <tspan x="6" y="11" font-family="Avenir-Medium" font-size="24" fill="#656565">3</tspan>
+      </text>
+      <path d="M370.344,8.644 L25.645,8.644" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M370.344,439.977 L25.645,439.977" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M700.731,224.311 L538.093,224.311" fill-opacity="0" stroke="#656565" stroke-width="3" stroke-dasharray="18,15"/>
+      <path d="M680.311,90.693 L225.927,90.693" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M680.311,354.693 L225.927,354.693" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <g>
+        <path d="M204.119,215.103 L246.735,215.103 L246.735,232.103 L204.119,232.103 L204.119,215.103 z" fill="#FFFFFF"/>
+        <path d="M204.619,213.914 L247.235,213.914" fill-opacity="0" stroke="#000000" stroke-width="12"/>
+        <path d="M204.619,235.086 L247.235,235.086" fill-opacity="0" stroke="#000000" stroke-width="12"/>
+      </g>
+      <g>
+        <path d="M348.119,215.103 L390.735,215.103 L390.735,232.103 L348.119,232.103 L348.119,215.103 z" fill="#FFFFFF"/>
+        <path d="M348.619,213.914 L391.235,213.914" fill-opacity="0" stroke="#000000" stroke-width="12"/>
+        <path d="M348.619,235.086 L391.235,235.086" fill-opacity="0" stroke="#000000" stroke-width="12"/>
+      </g>
+      <g>
+        <path d="M488.785,215.103 L531.401,215.103 L531.401,232.103 L488.785,232.103 L488.785,215.103 z" fill="#FFFFFF"/>
+        <path d="M489.285,213.914 L531.901,213.914" fill-opacity="0" stroke="#000000" stroke-width="12"/>
+        <path d="M489.285,235.086 L531.901,235.086" fill-opacity="0" stroke="#000000" stroke-width="12"/>
+      </g>
+      <path d="M58.29,127.853 L58.54,127.853 L58.54,127.853 L58.29,127.853 L58.29,127.853 z" fill="#F2F0F0"/>
+      <g>
+        <path d="M510.593,359.36 C508.016,359.36 505.927,357.271 505.927,354.693 C505.927,352.116 508.016,350.027 510.593,350.027 C513.171,350.027 515.26,352.116 515.26,354.693 C515.26,357.271 513.171,359.36 510.593,359.36 z" fill="#000000"/>
+        <path d="M510.593,359.36 C508.016,359.36 505.927,357.271 505.927,354.693 C505.927,352.116 508.016,350.027 510.593,350.027 C513.171,350.027 515.26,352.116 515.26,354.693 C515.26,357.271 513.171,359.36 510.593,359.36 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      </g>
+      <g>
+        <path d="M370.344,359.36 C367.767,359.36 365.677,357.271 365.677,354.693 C365.677,352.116 367.767,350.027 370.344,350.027 C372.921,350.027 375.011,352.116 375.011,354.693 C375.011,357.271 372.921,359.36 370.344,359.36 z" fill="#000000"/>
+        <path d="M370.344,359.36 C367.767,359.36 365.677,357.271 365.677,354.693 C365.677,352.116 367.767,350.027 370.344,350.027 C372.921,350.027 375.011,352.116 375.011,354.693 C375.011,357.271 372.921,359.36 370.344,359.36 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      </g>
+      <g>
+        <path d="M510.593,95.36 C508.016,95.36 505.927,93.271 505.927,90.693 C505.927,88.116 508.016,86.027 510.593,86.027 C513.171,86.027 515.26,88.116 515.26,90.693 C515.26,93.271 513.171,95.36 510.593,95.36 z" fill="#000000"/>
+        <path d="M510.593,95.36 C508.016,95.36 505.927,93.271 505.927,90.693 C505.927,88.116 508.016,86.027 510.593,86.027 C513.171,86.027 515.26,88.116 515.26,90.693 C515.26,93.271 513.171,95.36 510.593,95.36 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      </g>
+      <g>
+        <path d="M370.344,95.36 C367.767,95.36 365.677,93.271 365.677,90.693 C365.677,88.116 367.767,86.027 370.344,86.027 C372.921,86.027 375.011,88.116 375.011,90.693 C375.011,93.271 372.921,95.36 370.344,95.36 z" fill="#000000"/>
+        <path d="M370.344,95.36 C367.767,95.36 365.677,93.271 365.677,90.693 C365.677,88.116 367.767,86.027 370.344,86.027 C372.921,86.027 375.011,88.116 375.011,90.693 C375.011,93.271 372.921,95.36 370.344,95.36 z" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      </g>
+      <g>
+        <path d="M25.645,248.5 L25.645,413.844" fill-opacity="0" stroke="#A3A3A3" stroke-width="5"/>
+        <path d="M25.645,413.844 L20.245,410.244 L25.645,424.644 L31.045,410.244 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="5" stroke-opacity="1"/>
+      </g>
+      <g>
+        <path d="M25.645,31.3 L25.645,196.644" fill-opacity="0" stroke="#A3A3A3" stroke-width="5"/>
+        <path d="M25.645,31.3 L31.045,34.9 L25.645,20.5 L20.245,34.9 z" fill="#A3A3A3" fill-opacity="1" stroke="#A3A3A3" stroke-width="5" stroke-opacity="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
