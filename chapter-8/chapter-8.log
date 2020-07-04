@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  28 MAR 2020 22:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  4 JUL 2020 00:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -793,7 +793,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 55.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<cat.jpg, id=52, 850.17625pt x 963.6pt>
+<cat.jpg, id=48, 850.17625pt x 963.6pt>
 File: cat.jpg Graphic file (type jpg)
 <use cat.jpg>
 Package pdftex.def Info: cat.jpg  used on input line 58.
@@ -808,71 +808,119 @@ has been already used, duplicate ignored
 l.79 ...c{N}{C\cdot m/s} = 1\,\frac{N}{A\cdot m}\]
                                                    Another commonly used non...
 [1]
-<middle.png, id=73, 216.81pt x 212.795pt>
+<middle.png, id=69, 216.81pt x 212.795pt>
 File: middle.png Graphic file (type png)
 <use middle.png>
 Package pdftex.def Info: middle.png  used on input line 91.
 (pdftex.def)             Requested size: 85.35826pt x 83.77872pt.
-<left.png, id=75, 214.8025pt x 212.795pt>
+<left.png, id=71, 214.8025pt x 212.795pt>
 File: left.png Graphic file (type png)
 <use left.png>
 Package pdftex.def Info: left.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 84.56125pt.
-<right.png, id=76, 204.765pt x 198.7425pt>
+<right.png, id=72, 204.765pt x 198.7425pt>
 File: right.png Graphic file (type png)
 <use right.png>
 Package pdftex.def Info: right.png  used on input line 95.
 (pdftex.def)             Requested size: 85.35826pt x 82.8496pt.
-<wire.png, id=77, 250.9375pt x 222.8325pt>
+<wire.png, id=73, 250.9375pt x 222.8325pt>
 File: wire.png Graphic file (type png)
 <use wire.png>
 Package pdftex.def Info: wire.png  used on input line 102.
 (pdftex.def)             Requested size: 150.56364pt x 133.70053pt.
  [2 <./middle.png> <./left.png> <./right.png>]
-<arbitrary.png, id=91, 246.9225pt x 184.69pt>
+<arbitrary.png, id=87, 246.9225pt x 184.69pt>
 File: arbitrary.png Graphic file (type png)
 <use arbitrary.png>
 Package pdftex.def Info: arbitrary.png  used on input line 112.
 (pdftex.def)             Requested size: 148.15462pt x 110.81483pt.
- [3 <./wire.png> <./arbitrary.png>] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
+ [3 <./wire.png> <./arbitrary.png>]
+<loop_torque.png, id=98, 397.485pt x 172.645pt>
+File: loop_torque.png Graphic file (type png)
+<use loop_torque.png>
+Package pdftex.def Info: loop_torque.png  used on input line 129.
+(pdftex.def)             Requested size: 238.49283pt x 103.58778pt.
+ [4 <./loop_torque.png>]
+<angle.png, id=108, 337.26pt x 218.8175pt>
+File: angle.png Graphic file (type png)
+<use angle.png>
+Package pdftex.def Info: angle.png  used on input line 157.
+(pdftex.def)             Requested size: 202.35756pt x 131.2915pt.
+ [5 <./angle.png>] [6]
+<centripetal.png, id=126, 158.5925pt x 155.58125pt>
+File: centripetal.png Graphic file (type png)
+<use centripetal.png>
+Package pdftex.def Info: centripetal.png  used on input line 205.
+(pdftex.def)             Requested size: 111.01396pt x 108.90611pt.
+<helix.png, id=127, 219.82124pt x 169.63374pt>
+File: helix.png Graphic file (type png)
+<use helix.png>
+Package pdftex.def Info: helix.png  used on input line 215.
+(pdftex.def)             Requested size: 109.91034pt x 84.81665pt.
+ [7 <./centripetal.png> <./helix.png>] [8]
+<apparatus.png, id=145, 348.30125pt x 136.51pt>
+File: apparatus.png Graphic file (type png)
+<use apparatus.png>
+Package pdftex.def Info: apparatus.png  used on input line 239.
+(pdftex.def)             Requested size: 243.8092pt x 95.55634pt.
+<sliding-bar.png, id=146, 218.8175pt x 156.585pt>
+File: sliding-bar.png Graphic file (type png)
+<use sliding-bar.png>
+Package pdftex.def Info: sliding-bar.png  used on input line 254.
+(pdftex.def)             Requested size: 153.17119pt x 109.60873pt.
+ [9 <./apparatus.png>]
+<particle-traj.png, id=153, 217.81375pt x 137.51375pt>
+File: particle-traj.png Graphic file (type png)
+<use particle-traj.png>
+Package pdftex.def Info: particle-traj.png  used on input line 267.
+(pdftex.def)             Requested size: 152.46857pt x 96.25896pt.
+ [10 <./sliding-bar.png> <./particle-traj.png>]
+<weird-loop.png, id=162, 179.67125pt x 165.61874pt>
+File: weird-loop.png Graphic file (type png)
+<use weird-loop.png>
+Package pdftex.def Info: weird-loop.png  used on input line 280.
+(pdftex.def)             Requested size: 125.769pt x 115.93231pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 289.
+ [11 <./weird-loop.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 289.
  (./chapter-8.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 289.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 289.
 Package rerunfilecheck Info: File `chapter-8.out' has not changed.
-(rerunfilecheck)             Checksum: F825EF758A0F384844C03DB3BFD19606;729.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 149.
+(rerunfilecheck)             Checksum: FF67BE0E1C342CABD41DD992CF1E6034;694.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 289.
  ) 
 Here is how much of TeX's memory you used:
- 10055 strings out of 492616
- 149390 string characters out of 6129482
- 257342 words of memory out of 5000000
- 13802 multiletter control sequences out of 15000+600000
+ 10125 strings out of 492616
+ 150503 string characters out of 6129482
+ 261361 words of memory out of 5000000
+ 13849 multiletter control sequences out of 15000+600000
  19300 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,39p,1236b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,20n,39p,1236b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
-l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/mathabx-type1/matha10.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/mathabx-type1/mathx10.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on chapter-8.pdf (6 pages, 737522 bytes).
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/mathabx-type1/matha10.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/mathabx-type1/matha8.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/mathabx-type1/mathx10.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on chapter-8.pdf (12 pages, 1431576 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 241 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 159 words of extra memory for PDF output out of 10000 (max. 10000000)
 
